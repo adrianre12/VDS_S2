@@ -18,6 +18,8 @@ This port works with the classic **OWON VDS_S2** hardware generation (manufactur
 * **OWON:** VDS3102, VDS3102L, VDS2062, VDS2062L
 * **Multicomp Pro (Farnell/element14):** MP720019, MP720018
 
+[More Detals](owon-vds-s2-vs-vds-plus.md)
+
 ### How to Check if Your Oscilloscope is Compatible
 Plug your oscilloscope into a USB port and run:
 ```bash
