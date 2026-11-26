@@ -4,6 +4,12 @@ A standalone Linux installer and native JNI USB bridge for the **OWON VDS3102** 
 
 ---
 
+## AI Disclaimer
+
+I could have written this, but as I have not touched Java in over 20 years, and I am also experimenting with AI, I chose to use it in this project. I used Google Search AI mode; don't judge, it's free!
+Overall, I am happy with the result, but the experience was like working with a Senior developer who is distracted by other things and does not like to admit they don't know. However, it does seem to be less prone to hallucinations than other models I have tried and, if directed, can find answers or say it does not know. So my verdict is that it is useful but is not a substitute for actually knowing what you are doing.
+
+
 ## Overview
 
 OWON and Multicomp Pro (Farnell/element14) distribute the VDS3102 / MP720019 software exclusively as a Windows NSIS installer (`.exe`). Internally, the application is an **Eclipse RCP / Equinox Java** program that communicates with the oscilloscope over USB using `ch.ntb.usb` (`libusbJava`).
